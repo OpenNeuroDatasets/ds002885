@@ -1,2 +1,4 @@
 filename
-meg\sub-01_task-reference_meg.fif
+meg\sub-01_task-DSMW_meg.fif
+meg\sub-01_task-Reference_meg.fif
+meg\sub-01_task-EmptyRoom_meg.fif
