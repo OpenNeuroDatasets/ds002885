@@ -1,8 +1,0 @@
-{
-	"HeadCoilCoordinateSystem": "Neuromag",
-	"HeadCoilCoordinateSystemDescription": "Neuromag head coordinates, orientation RAS, origin between the ears",
-	"HeadCoilCoordinateUnits": "m",
-	"MEGCoordinateSystem": "Neuromag",
-	"MEGCoordinateSystemDescription": "Neuromag head coordinates, orientation RAS, origin between the ears",
-	"MEGCoordinateUnits": "m"
-}
